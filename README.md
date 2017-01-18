@@ -10,6 +10,7 @@ Only works on late model Mac laptops as of now.
 ## Future modifications
 Automatically extract the correct WiFi adapter name.
 Tons of refactoring. 
+Use Airmon-ng to kick expel the original owner from the WiFi system, check https://julianoliver.com/output/log_2015-12-18_14-39.
 
 ## Usage
 
